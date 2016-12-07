@@ -8,6 +8,19 @@
       name='author' />
  </head>
  <Scene>
+  <PointLight color='0.9 0.05 0.05'
+      location='2. 0. 2.'
+      radius='10000' />
+  <PointLight color='0.05 0.9 0.05'
+      location='2. 2. 2.'
+      radius='10000' />
+  <PointLight color='0.05 0.05 0.9'
+      location='0. 2. 2.'
+      radius='10000' />
+  <PointLight color='0.9 0.7 0.9'
+      location='-2. -2. -2.'
+      radius='10000' />
+  <Background skyColor='0. 0. 0.' />
   <Shape>
    <IndexedFaceSet colorPerVertex='true'
        normalPerVertex='true'
