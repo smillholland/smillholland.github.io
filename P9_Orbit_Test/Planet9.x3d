@@ -33,7 +33,7 @@
     <Shape>
      <Text string='STUFF'
          solid='false'>
-      <FontStyle size='1.0'
+      <FontStyle size='10.0'
           justify='&quot;MIDDLE&quot;' />
      </Text>
      <Appearance>
