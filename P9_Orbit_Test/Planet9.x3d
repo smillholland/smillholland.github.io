@@ -33,8 +33,10 @@
       <Appearance>
         <Material diffuseColor='0.8 0.8 0.8' emissiveColor='0.8 0.8 0.8'/>
       </Appearance>
-      <Text string='"X as rotation axis"'>
-        <FontStyle justify='"MIDDLE" "MIDDLE"'/>
+       <Text string='STUFF'
+         solid='false'>
+         <FontStyle size='100.0'
+          justify='&quot;MIDDLE&quot;' />
       </Text>
     </Shape>
    </Transform>
