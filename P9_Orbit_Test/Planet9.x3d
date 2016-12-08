@@ -31,7 +31,7 @@
    <Transform translation='0 2 0.3'>
     <Shape>
       <Appearance>
-        <Material diffuseColor='1 0 0' emissiveColor='1 0 0'/>
+        <Material diffuseColor='0.8 0.8 0.8' emissiveColor='0.8 0.8 0.8'/>
       </Appearance>
       <Text string='"X as rotation axis"'>
         <FontStyle justify='"MIDDLE" "MIDDLE"'/>
