@@ -34,7 +34,7 @@
           justify='&quot;MIDDLE&quot;' />
      </Text>
      <Appearance>
-      <Material diffuseColor='0 0 0' />
+      <Material diffuseColor='0.8 0.8 0.8' />
      </Appearance>
     </Shape>
    </Billboard>
