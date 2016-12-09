@@ -325,16 +325,15 @@
   </Shape>
       
   <!-- Text -->
-  <Transform translation='6.283 -1.5 -1.8'
-      scale='0.35 0.35 0.35'>
+  <Transform translation='6.283 -1.5 -1.8'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string='text'>
-      <FontStyle size='1.0'
+      <FontStyle size='10.0'
           justify='&quot;MIDDLE&quot;' />
      </Text>
      <Appearance>
-      <Material diffuseColor='1 1 1' />
+      <Material diffuseColor='1. 1. 1.' />
      </Appearance>
     </Shape>
    </Billboard>
