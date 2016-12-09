@@ -23,31 +23,7 @@
   <Background skyColor='0. 0. 0.' />
   <Group>
   <!-- KBO Current Positions -->
-  <Transform translation='-29.518925437412573 -18.229128550513902 11.061639463900757'>
-   <Shape>
-    <Appearance>
-     <Material diffuseColor='1. 1. 1.' />
-    </Appearance>
-    <Sphere radius='5.' />
-   </Shape>
-  </Transform>
   <Transform translation='47.79946800556885 68.78244078669509 -17.69370760532881'>
-   <Shape>
-    <Appearance>
-     <Material diffuseColor='1. 1. 1.' />
-    </Appearance>
-    <Sphere radius='5.' />
-   </Shape>
-  </Transform>
-  <Transform translation='-52.28682817075789 29.391035862202937 9.574986257235652'>
-   <Shape>
-    <Appearance>
-     <Material diffuseColor='1. 1. 1.' />
-    </Appearance>
-    <Sphere radius='5.' />
-   </Shape>
-  </Transform>
-  <Transform translation='-27.291140437517072 -21.80186182214488 5.861479595201572'>
    <Shape>
     <Appearance>
      <Material diffuseColor='1. 1. 1.' />
