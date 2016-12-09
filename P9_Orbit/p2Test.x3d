@@ -338,11 +338,14 @@
    </Billboard>
   </Transform>
       
+
+
+      
   <!-- RA/Dec 2 -->
   <Transform translation='201.547 -916.576 -429.293'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string="19h 06m \n -47° 17'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -356,7 +359,7 @@
   <Transform translation='1120.71 -326.857 -616.963'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string="23h 48m \n -31° 51'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -370,7 +373,7 @@
   <Transform translation='1274.2 552.318 -358.575'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string="01h 48m \n -04° 23' \n   Cetus">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -384,7 +387,7 @@
   <Transform translation='698.664 1115.49 104.97'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string="03h 38m \n +24° 09'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -398,7 +401,7 @@
   <Transform translation='-319.845 865.298 462.583'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string="07h 51m \n +48° 07'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -408,13 +411,13 @@
    </Billboard>
   </Transform>
       
+
       
-      
-  <!-- RA/Dec 2 -->
+  <!-- dist 2 -->
   <Transform translation='128.281 -583.384 -273.237'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string='507 AU'>
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -424,11 +427,11 @@
    </Billboard>
   </Transform>
   
-  <!-- RA/Dec 3 -->
+  <!-- dist 3 -->
   <Transform translation='807.3 -235.451 -444.428'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string='801 AU'>
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -438,11 +441,11 @@
    </Billboard>
   </Transform>
       
-  <!-- RA/Dec 4 -->
+  <!-- dist 4 -->
   <Transform translation='975.70 422.932 -274.575'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string='948 AU'>
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -452,11 +455,11 @@
    </Billboard>
   </Transform>
   
-  <!-- RA/Dec 5 -->
+  <!-- dist 5 -->
   <Transform translation='503.282 803.54 75.615'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string='801 AU'>
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -470,7 +473,7 @@
   <Transform translation='-203.575 550.747 294.426'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string='507 AU'>
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
