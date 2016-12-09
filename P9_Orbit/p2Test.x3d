@@ -337,6 +337,149 @@
     </Shape>
    </Billboard>
   </Transform>
+      
+  <!-- RA/Dec 2 -->
+  <Transform translation='201.547 -916.576 -429.293'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+  
+  <!-- RA/Dec 3 -->
+  <Transform translation='1120.71 -326.857 -616.963'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+      
+  <!-- RA/Dec 4 -->
+  <Transform translation='1274.2 552.318 -358.575'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+  
+  <!-- RA/Dec 5 -->
+  <Transform translation='698.664 1115.49 104.97'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+      
+  <!-- RA/Dec 6 -->
+  <Transform translation='-319.845 865.298 462.583'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+      
+      
+      
+  <!-- RA/Dec 2 -->
+  <Transform translation='128.281 -583.384 -273.237'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+  
+  <!-- RA/Dec 3 -->
+  <Transform translation='807.3 -235.451 -444.428'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+      
+  <!-- RA/Dec 4 -->
+  <Transform translation='975.70 422.932 -274.575'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+  
+  <!-- RA/Dec 5 -->
+  <Transform translation='503.282 803.54 75.615'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+      
+  <!-- dist 6 -->
+  <Transform translation='-203.575 550.747 294.426'>
+   <Billboard axisOfRotation='0 0 0'>
+    <Shape>
+     <Text string='text'>
+  <!--      <fontstyle size='96'></fontstyle> -->
+     </Text>
+     <Appearance>
+      <Material diffuseColor='1.0 1.0 1.0' />
+     </Appearance>
+    </Shape>
+   </Billboard>
+  </Transform>
+      
      
   </Group>
  </Scene>
