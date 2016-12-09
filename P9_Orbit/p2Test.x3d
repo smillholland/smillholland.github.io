@@ -22,6 +22,124 @@
       radius='10000' />
   <Background skyColor='0. 0. 0.' />
   <Group>
+  <!-- KBO Current Positions -->
+  <Transform translation='-29.518925437412573 -18.229128550513902 11.061639463900757'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='47.79946800556885 68.78244078669509 -17.69370760532881'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-52.28682817075789 29.391035862202937 9.574986257235652'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-27.291140437517072 -21.80186182214488 5.861479595201572'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='32.98944588034167 33.50216712011049 -7.901211707041184'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='15.356534173717634 32.65395516432139 -9.037316349198628'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-66.82512326619197 -8.924048693047641 22.314581568763504'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='50.459316385317976 62.36475502945129 -22.909883717701387'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-54.023580889148484 -17.576197279304626 -5.992356351705732'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='29.22132648636289 18.370776694624503 -11.353110712045282'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='45.932423521733824 -28.46737402754824 -16.092356976209405'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-59.310686983257156 -9.602887819236365 -12.10937197449394'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
+  <Transform translation='24.63733402984023 45.5657960744907 0.'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 1. 1.' />
+    </Appearance>
+    <Sphere solid='false'
+        radius='10.' />
+   </Shape>
+  </Transform>
   <!--   Sky -->
   <Shape>
    <Appearance>
