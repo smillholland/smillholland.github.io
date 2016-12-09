@@ -329,7 +329,7 @@
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string='text'>
-      <FontStyle size='10'/>
+      <FontStyle size='1000'/>
      </Text>
      <Appearance>
       <Material diffuseColor='1.0 1.0 1.0' />
