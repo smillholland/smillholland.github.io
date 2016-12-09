@@ -28,7 +28,7 @@
     <Appearance>
      <Material diffuseColor='1. 1. 1.' />
     </Appearance>
-    <Sphere radius='10.' />
+    <Sphere radius='7.' />
    </Shape>
   </Transform>
   <Transform translation='47.79946800556885 68.78244078669509 -17.69370760532881'>
@@ -36,7 +36,7 @@
     <Appearance>
      <Material diffuseColor='1. 1. 1.' />
     </Appearance>
-    <Sphere radius='10.' />
+    <Sphere radius='7.' />
    </Shape>
   </Transform>
   <Transform translation='-52.28682817075789 29.391035862202937 9.574986257235652'>
@@ -44,7 +44,7 @@
     <Appearance>
      <Material diffuseColor='1. 1. 1.' />
     </Appearance>
-    <Sphere radius='10.' />
+    <Sphere radius='7.' />
    </Shape>
   </Transform>
   <Transform translation='-27.291140437517072 -21.80186182214488 5.861479595201572'>
@@ -52,7 +52,7 @@
     <Appearance>
      <Material diffuseColor='1. 1. 1.' />
     </Appearance>
-    <Sphere radius='10.' />
+    <Sphere radius='7.' />
    </Shape>
   </Transform>
   <Transform translation='32.98944588034167 33.50216712011049 -7.901211707041184'>
