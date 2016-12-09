@@ -328,7 +328,7 @@
   <Transform translation='6.283 -1.5 -1.8'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string='text'>
+     <Text string='crappy text'>
       <fontstyle size='96'></fontstyle>
      </Text>
      <Appearance>
