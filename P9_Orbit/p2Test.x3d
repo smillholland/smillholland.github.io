@@ -337,7 +337,15 @@
     </Shape>
    </Billboard>
   </Transform>
-     
+      
+<Shape>
+<Text DEF='HelloText' string='"hello" "X3D!"'>
+<FontStyle DEF='CenteredFontStyle' justify='"MIDDLE" "MIDDLE"'/>
+</Text> 
+<Appearance>
+<Material DEF='DefaultMaterial' diffuseColor='.2 .2 .2'/>
+</Appearance>
+</Shape>     
   
   </Group>
  </Scene>
