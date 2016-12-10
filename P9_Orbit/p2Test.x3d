@@ -344,7 +344,7 @@
 
       
   <!-- RA/Dec 2 -->
-  <Transform translation='201.547 -916.576 -429.293'>
+  <Transform translation='201.547 -916.576 -429.293' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string="19h 06m \n -47° 17'">
@@ -358,7 +358,7 @@
   </Transform>
   
   <!-- RA/Dec 3 -->
-  <Transform translation='1120.71 -326.857 -616.963'>
+  <Transform translation='1120.71 -326.857 -616.963' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string="23h 48m \n -31° 51'">
@@ -372,7 +372,7 @@
   </Transform>
       
   <!-- RA/Dec 4 -->
-  <Transform translation='1274.2 552.318 -358.575'>
+  <Transform translation='1274.2 552.318 -358.575' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string="01h 48m \n -04° 23' \n   Cetus">
@@ -386,7 +386,7 @@
   </Transform>
   
   <!-- RA/Dec 5 -->
-  <Transform translation='698.664 1115.49 104.97'>
+  <Transform translation='698.664 1115.49 104.97' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string="03h 38m \n +24° 09'">
@@ -400,7 +400,7 @@
   </Transform>
       
   <!-- RA/Dec 6 -->
-  <Transform translation='-319.845 865.298 462.583'>
+  <Transform translation='-319.845 865.298 462.583' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string="07h 51m \n +48° 07'">
@@ -416,7 +416,7 @@
 
       
   <!-- dist 2 -->
-  <Transform translation='128.281 -583.384 -273.237'>
+  <Transform translation='128.281 -583.384 -273.237' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string='507 AU'>
@@ -430,7 +430,7 @@
   </Transform>
   
   <!-- dist 3 -->
-  <Transform translation='807.3 -235.451 -444.428'>
+  <Transform translation='807.3 -235.451 -444.428' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string='801 AU'>
@@ -444,7 +444,7 @@
   </Transform>
       
   <!-- dist 4 -->
-  <Transform translation='975.70 422.932 -274.575'>
+  <Transform translation='975.70 422.932 -274.575' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string='948 AU'>
@@ -458,7 +458,7 @@
   </Transform>
   
   <!-- dist 5 -->
-  <Transform translation='503.282 803.54 75.615'>
+  <Transform translation='503.282 803.54 75.615' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string='801 AU'>
@@ -472,7 +472,7 @@
   </Transform>
       
   <!-- dist 6 -->
-  <Transform translation='-203.575 550.747 294.426'>
+  <Transform translation='-203.575 550.747 294.426' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
      <Text string='507 AU'>
