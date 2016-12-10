@@ -347,7 +347,7 @@
   <Transform translation='201.547 -916.576 -429.293' scale='20. 20. 20.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string="19h 06m \n -47° 17'">
+     <Text string="19h 06m &#10; -47° 17'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
