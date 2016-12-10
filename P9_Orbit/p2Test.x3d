@@ -329,7 +329,7 @@
   <Transform translation='201.547 -916.576 -429.293' scale='30. 30. 30.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string="RA 19h 06m, Dec -47° 17'">
+     <Text string="RA 19h 06m,  Dec -47° 17'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -343,7 +343,7 @@
   <Transform translation='1120.71 -326.857 -616.963' scale='30. 30. 30.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string="RA 23h 48m, Dec -31° 51'">
+     <Text string="RA 23h 48m,  Dec -31° 51'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -357,7 +357,7 @@
   <Transform translation='1274.2 552.318 -358.575' scale='30. 30. 30.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string="RA 01h 48m, Dec -04° 23' ">
+     <Text string="RA 01h 48m,  Dec -04° 23' ">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -371,7 +371,7 @@
   <Transform translation='698.664 1115.49 104.97' scale='30. 30. 30.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string="RA 03h 38m, Dec +24° 09'">
+     <Text string="RA 03h 38m,  Dec +24° 09'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
@@ -385,7 +385,7 @@
   <Transform translation='-319.845 865.298 462.583' scale='30. 30. 30.'>
    <Billboard axisOfRotation='0 0 0'>
     <Shape>
-     <Text string="RA 07h 51m, Dec +48° 07'">
+     <Text string="RA 07h 51m,  Dec +48° 07'">
   <!--      <fontstyle size='96'></fontstyle> -->
      </Text>
      <Appearance>
