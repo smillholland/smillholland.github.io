@@ -1308,7 +1308,124 @@
   <Transform translation='-193.40295751580865 382.1308329441608 227.35142864324152'>
    <Shape>
     <Appearance>
-     <Material diffuseColor='1.       
+     <Material diffuseColor='1. 0.7710572133169534 0.28978177065829547' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-215.16485314244568 353.05894689693775 226.1872197666649'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.7918163524279147 0.3273704932763617' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-235.9025341794976 322.3108628979679 223.94796553833467'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.8122094328286196 0.36429639075277787' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-255.41637126444442 289.8950740100641 220.54852658032218'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.8320978380721936 0.40030846928939' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-273.4855944445414 255.84411012521943 215.90333393394417'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.8513236291193405 0.43512074753085683' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-289.86924804126414 220.22078600604488 209.92913010650483'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.8697089453562706 0.46841117198350146' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-304.3088428695882 183.1250080863264 202.54866818039417'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.8850808111052157 0.5033875824217154' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-316.53327588152956 144.7006755480294 193.69544873671168'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.8945792763918615 0.5444343027705975' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-326.2665526619905 105.14191149119647 183.3194478014621'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.9032038095962575 0.5817044081925967' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-333.23865859784206 64.69753438573676 171.39358431892566'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.9108156553075503 0.6145982802889185' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-337.19951946706146 23.67241727900259 157.92039900511256'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.9172774902421582 0.6425224894634671' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-337.9353534611002 -17.575678125772363 142.93811153769695'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.922460416604503 0.6649200160705411' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-335.2859189571472 -58.6449045692985 126.52498188108342'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.9262519856219674 0.6813049233631072' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-329.16040897134656 -99.10411744984424 108.80085191386452'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.9285643821594164 0.6912977265311978' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+  <Transform translation='-319.5493411799266 -138.51282585549555 89.92500000000007'>
+   <Shape>
+    <Appearance>
+     <Material diffuseColor='1. 0.9293416 0.6946564000000001' />
+    </Appearance>
+    <Sphere radius='5.' />
+   </Shape>
+  </Transform>
+      
   <!--   P2 -->
   <Shape>
    <Appearance>
