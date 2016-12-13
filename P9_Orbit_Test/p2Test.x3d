@@ -7,8 +7,7 @@
   <meta content='Created with the Wolfram Language for Students - Personal Use Only : www.wolfram.com'
       name='author' />
  </head>
- <Scene>
-  <Transform translation="0. 0. 0." scale="0.1 0.1 0.1">    
+ <Scene>   
   <PointLight color='0.9 0.05 0.05'
       location='2. 0. 2.'
       radius='10000' />
@@ -1671,6 +1670,5 @@
       
      
   </Group>
- </Transform>
  </Scene>
 </X3D>
