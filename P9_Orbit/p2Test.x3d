@@ -224,12 +224,12 @@
    </PointSet>
   </Shape>
   -->
-    <Transform translation='-319.5493411799266 -138.51282585549566 89.925'>
+  <Transform translation='-319.5493411799266 -138.51282585549566 89.925'>
    <Shape>
     <Appearance>
      <Material diffuseColor='1. 0.9293416 0.6946564000000001' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-306.53003495714404 -176.4441889016659 70.09002909747304'>
@@ -237,7 +237,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9285643821594164 0.6912977265311975' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-290.26425497758504 -212.5079696195708 49.512306080048596'>
@@ -245,7 +245,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9262519856219674 0.681304923363107' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-270.9881161370689 -246.37013441240612 28.42022330169001'>
@@ -253,7 +253,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.922460416604503 0.6649200160705411' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-248.99589643408706 -277.7664587819311 7.041990152903618'>
@@ -261,7 +261,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9172774902421581 0.6425224894634668' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-224.62046210875124 -306.5088394975318 -14.405366961612962'>
@@ -269,7 +269,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9108156553075504 0.6145982802889188' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-198.2132711059861 -332.48452539253367 -35.724563148643924'>
@@ -277,7 +277,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9032038095962576 0.5817044081925974' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-170.1264362203106 -355.6496692287657 -56.743595075662434'>
@@ -285,7 +285,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8945792763918616 0.5444343027705981' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-140.6984099878771 -376.0192005508687 -77.31831387753438'>
@@ -293,7 +293,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.885080811105216 0.5033875824217166' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-110.24387276659459 -393.6550319360103 -97.33252059452471'>
@@ -301,7 +301,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8697089453562706 0.46841117198350146' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-79.04763108607968 -408.65423045247263 -116.69627505288352'>
@@ -309,7 +309,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8513236291193405 0.43512074753085683' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-47.36186975261946 -421.1382479623952 -135.34311441166201'>
@@ -317,7 +317,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8320978380721933 0.40030846928938946' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-15.405923749489064 -431.2437886883889 -153.22676487549398'>
@@ -325,7 +325,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8122094328286196 0.36429639075277787' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='16.63224183701619 -439.11549426719785 -170.31777248281534'>
@@ -333,7 +333,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7918163524279149 0.3273704932763619' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='48.59352682998441 -444.9003676293385 -186.60032583595856'>
@@ -341,7 +341,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7710572133169531 0.289781770658295' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='80.34468456299075 -448.74371844819063 -202.0694195328159'>
@@ -349,7 +349,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7500525609937654 0.25174849549958056' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='111.7751657824225 -450.7863606467208 -216.72841825732618'>
@@ -357,7 +357,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7289064721531896 0.2134591202207336' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='142.79404980080506 -451.1627935165191 -230.58702449088764'>
@@ -365,7 +365,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7077082943845353 0.17507542714486463' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='173.32719721275532 -450.0001269164539 -243.65962035366135'>
@@ -373,7 +373,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.6865343832366866 0.13673567381396615' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='203.3146901782627 -447.417550835337 -255.96393865087975'>
@@ -381,7 +381,7 @@
     <Appearance>
      <Material diffuseColor='0.9982184516864825 0.6627136324201219 0.12297773158933137' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='232.7085815181093 -443.52619041212415 -267.5200135478748'>
@@ -389,7 +389,7 @@
     <Appearance>
      <Material diffuseColor='0.9960543152701999 0.6384497626480581 0.11472560649030258' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='261.4709465138232 -438.429224312066 -278.3493628590213'>
@@ -397,7 +397,7 @@
     <Appearance>
      <Material diffuseColor='0.9939099369678508 0.614407416944355 0.10654882157162143' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='289.57221605172333 -432.22217521794374 -288.4743586426578'>
@@ -405,7 +405,7 @@
     <Appearance>
      <Material diffuseColor='0.9917893937698397 0.5906323057196372 0.09846292291189554' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='316.9897624752232 -424.993305874287 -297.9177487349446'>
@@ -413,7 +413,7 @@
     <Appearance>
      <Material diffuseColor='0.9896961200871508 0.5671629349110745 0.09048100635336137' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='343.7067072248025 -416.82407320818277 -306.7022979280887'>
@@ -421,7 +421,7 @@
     <Appearance>
      <Material diffuseColor='0.9876330016839137 0.544031659135731 0.08261407567859984' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='369.7109199952385 -407.7896074434026 -314.85052312741027'>
@@ -429,7 +429,7 @@
     <Appearance>
      <Material diffuseColor='0.985602456553646 0.5212655884590298 0.07487135100185552' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='394.99418136954154 -397.9591937624182 -322.38450175578305'>
@@ -437,7 +437,7 @@
     <Appearance>
      <Material diffuseColor='0.9836065042611659 0.49888736584255666 0.06726053317848965' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='419.5514838411408 -387.39674179897673 -329.32573684762554'>
@@ -445,7 +445,7 @@
     <Appearance>
      <Material diffuseColor='0.981646825223194 0.47691583178645836 0.05978802984939384' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='443.3804492917491 -376.16123376959007 -335.6950657210515'>
@@ -453,7 +453,7 @@
     <Appearance>
      <Material diffuseColor='0.979724811291585 0.45536659145864095 0.052459148321232725' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='466.4808440567254 -364.3071459403993 -341.5126019150204'>
@@ -461,7 +461,7 @@
     <Appearance>
      <Material diffuseColor='0.9651502681138506 0.437198501424918 0.06748557124290366' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='488.85417552898474 -351.88484081392335 -346.79770232277787'>
@@ -469,7 +469,7 @@
     <Appearance>
      <Material diffuseColor='0.9480690733186937 0.4200671598388245 0.08711925557437958' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='510.50335676029283 -338.9409292394672 -351.5689532371665'>
@@ -477,7 +477,7 @@
     <Appearance>
      <Material diffuseColor='0.931363233423127 0.40331227511526346 0.10632149469963861' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='531.4324277000437 -325.51860284847754 -355.84417043251875'>
@@ -485,7 +485,7 @@
     <Appearance>
      <Material diffuseColor='0.9150383954589366 0.38693951086451756 0.12508579773552947' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='551.6463235797228 -311.6579379736191 -359.6404095151739'>
@@ -493,7 +493,7 @@
     <Appearance>
      <Material diffuseColor='0.8990990197908985 0.3709533405460541 0.1434070377927999' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='571.1506825338035 -297.3961726602279 -362.97398364154185'>
@@ -501,7 +501,7 @@
     <Appearance>
      <Material diffuseColor='0.8835485596984616 0.35535722757742344 0.16128124555903214' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='589.9516858781532 -282.7679586166295 -365.8604863792705'>
@@ -509,7 +509,7 @@
     <Appearance>
      <Material diffuseColor='0.8683896146931314 0.34015377910174954 0.17870543307062478' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='608.0559255791419 -267.8055900441615 -368.3148180139513'>
@@ -517,7 +517,7 @@
     <Appearance>
      <Material diffuseColor='0.8536240615349087 0.32534487738880524 0.1956774431182104' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='625.470294372871 -252.53921128711153 -370.35121401321067'>
@@ -525,7 +525,7 @@
     <Appearance>
      <Material diffuseColor='0.8392531663027346 0.31093179223447276 0.21219582042921772' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='642.2018947632722 -236.99700518158642 -371.9832746775834'>
@@ -533,7 +533,7 @@
     <Appearance>
      <Material diffuseColor='0.8252776803568482 0.2969152772048267 0.22825970136559748' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='658.2579637658274 -221.20536388437156 -373.2239952533815'>
@@ -541,7 +541,7 @@
     <Appearance>
      <Material diffuseColor='0.8116979225931273 0.28329565213195584 0.24386871937799096' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='673.6458107922889 -205.1890438445702 -374.0857959726815'>
@@ -549,7 +549,7 @@
     <Appearance>
      <Material diffuseColor='0.7985138500195762 0.27007287389764933 0.25902292388280485' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='688.372766509543 -188.9713064535148 -374.5805516319246'>
@@ -557,7 +557,7 @@
     <Appearance>
      <Material diffuseColor='0.7827166067577241 0.25815335772758674 0.2739382885890903' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='702.4461408684074 -172.57404577938755 -374.71962043311635'>
@@ -565,7 +565,7 @@
     <Appearance>
      <Material diffuseColor='0.7557679121808756 0.25010975347182746 0.28922727237496354' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='715.8731887986066 -156.0179046670785 -374.5138718977757'>
@@ -573,7 +573,7 @@
     <Appearance>
      <Material diffuseColor='0.7296757970395659 0.24232181970776667 0.3040302871999315' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='728.6610823153364 -139.32238036391905 -373.97371372948476'>
@@ -581,7 +581,7 @@
     <Appearance>
      <Material diffuseColor='0.704438166495317 0.23478893117128824 0.31834852154276927' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='740.816887989595 -122.50592071977887 -373.1091175507219'>
@@ -589,7 +589,7 @@
     <Appearance>
      <Material diffuseColor='0.6800526377940446 0.22751037666167556 0.3321833272273459' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='752.3475489062425 -105.58601190637046 -371.9296434771724'>
@@ -597,7 +597,7 @@
     <Appearance>
      <Material diffuseColor='0.6565166026839646 0.22048537767201104 0.3455361840106535' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='763.2598703766414 -88.57925850576123 -370.4444635207081'>
@@ -605,7 +605,7 @@
     <Appearance>
      <Material diffuseColor='0.6338272812833399 0.2137131044675367 0.3584086690216578' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='773.5605087917241 -71.5014567318468 -368.66238383285213'>
@@ -613,7 +613,7 @@
     <Appearance>
      <Material diffuseColor='0.6119817685942237 0.20719268996900378 0.3708024303723438' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='783.2559631005498 -54.36766147058939 -366.5918658154933'>
@@ -621,7 +621,7 @@
     <Appearance>
      <Material diffuseColor='0.5909770746841222 0.20092324174603265 0.38271916436118286' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='792.3525684822963 -37.19224775460514 -364.2410461362155'>
@@ -629,7 +629,7 @@
     <Appearance>
      <Material diffuseColor='0.5708101594097543 0.19490385238140645 0.39416059577306933' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='800.8564918489018 -19.988967224641215 -361.61775569284674'>
@@ -637,7 +637,7 @@
     <Appearance>
      <Material diffuseColor='0.551477962431894 0.189133608429854 0.40512846085079884' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='808.7737288736187 -2.7710000740579455 -358.72953757656285'>
@@ -645,7 +645,7 @@
     <Appearance>
      <Material diffuseColor='0.5329774291637134 0.18361159816307115 0.41562449257362' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='816.1101022893893 14.44899707806834 -355.5836640856602'>
@@ -653,7 +653,7 @@
     <Appearance>
      <Material diffuseColor='0.5153055332045959 0.17833691826572987 0.4256504079297093' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='822.8712612418456 31.658846984645482 -352.18715284347735'>
@@ -661,7 +661,7 @@
     <Appearance>
      <Material diffuseColor='0.49845929573404524 0.17330867962414226 0.43520789691329403' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='829.0626815161127 48.8468108786913 -348.54678207423535'>
@@ -669,7 +669,7 @@
     <Appearance>
      <Material diffuseColor='0.4824358022745376 0.1685260123296102 0.44429861301447104' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='834.6896664855668 66.001550567301 -344.6691050900949'>
@@ -677,7 +677,7 @@
     <Appearance>
      <Material diffuseColor='0.4672322171757575 0.16398807000165766 0.4529241650017679' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='839.7573486551563 83.11209321882015 -340.56046404168876'>
@@ -685,7 +685,7 @@
     <Appearance>
      <Material diffuseColor='0.45284579612443326 0.1596940335219467 0.4610861098248542' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='844.2706916925545 100.16779857892207 -336.227002983012'>
@@ -693,7 +693,7 @@
     <Appearance>
      <Material diffuseColor='0.4392738969426128 0.15564311425733002 0.46878594648828287' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='848.2344928579289 117.158328376624 -331.6746802998938'>
@@ -701,7 +701,7 @@
     <Appearance>
      <Material diffuseColor='0.42651398890164255 0.1518345568398728 0.47602511076732834' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='851.653385757968 134.07361770373203 -326.90928054951377'>
@@ -709,7 +709,7 @@
     <Appearance>
      <Material diffuseColor='0.41456366074849044 0.1482676415625371 0.4828049706543587' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='854.5318433624395 150.90384817122808 -321.9364257565842'>
@@ -717,7 +717,7 @@
     <Appearance>
      <Material diffuseColor='0.403420627614682 0.1449416864413503 0.4891268224391426' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='856.8741812323443 167.63942266387207 -316.7615862099946'>
@@ -725,7 +725,7 @@
     <Appearance>
      <Material diffuseColor='0.3930827369552514 0.1418560489880539 0.49499188733946425' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='858.6845609179434 184.27094153011032 -311.3900908019264'>
@@ -733,7 +733,7 @@
     <Appearance>
      <Material diffuseColor='0.3835479736453642 0.13901012773133545 0.5004013086096226' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='859.9669934928589 200.78918005842664 -305.8271369497331'>
@@ -741,7 +741,7 @@
     <Appearance>
      <Material diffuseColor='0.37481446434508164 0.13640336351961677 0.5053561490641396' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='860.7253431972722 217.18506710367706 -300.07780013929755'>
@@ -749,7 +749,7 @@
     <Appearance>
      <Material diffuseColor='0.3674881204815527 0.13386755320350668 0.49929541458200105' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='860.9633311691698 233.44966473801745 -294.14704312708955'>
@@ -757,7 +757,7 @@
     <Appearance>
      <Material diffuseColor='0.36108546654257456 0.1315352121860701 0.4905963150064879' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='860.6845392477426 249.57414881077722 -288.0397248368129'>
@@ -765,7 +765,7 @@
     <Appearance>
      <Material diffuseColor='0.3553974722953478 0.129463205418847 0.48286820275598136' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='859.8924138375933 265.54979031023487 -281.7606089853507'>
@@ -773,7 +773,7 @@
     <Appearance>
      <Material diffuseColor='0.3504229945727539 0.12765111647209035 0.47610952464258605' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='858.5902698264364 281.3679374278302 -275.314372471684'>
@@ -781,7 +781,7 @@
     <Appearance>
      <Material diffuseColor='0.3461610297710572 0.1260985797558151 0.4703189170991135' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='856.7812945525934 297.0199982319889 -268.7056135615991'>
@@ -789,7 +789,7 @@
     <Appearance>
      <Material diffuseColor='0.34261071526223374 0.12480528103427732 0.4654952080979718' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='854.468551821881 312.49742386453767 -261.93885990029963'>
@@ -797,7 +797,7 @@
     <Appearance>
      <Material diffuseColor='0.33977133054708963 0.12377095784602922 0.4616374187178744' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='851.6549859765328 327.7916921776767 -255.01857638453512'>
@@ -805,7 +805,7 @@
     <Appearance>
      <Material diffuseColor='0.3376422981765388 0.12299539983951945 0.4587447643955532' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='848.3434260216528 342.894291733833 -247.94917292550363'>
@@ -813,7 +813,7 @@
     <Appearance>
      <Material diffuseColor='0.3362231844631253 0.12247844903228447 0.45681665589248294' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='844.5365898174365 357.7967060943199 -240.73501213366265'>
@@ -821,7 +821,7 @@
     <Appearance>
      <Material diffuseColor='0.3355137 0.12222000000000004 0.4558527000000001' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='840.2370883480576 372.4903983258442 -233.3804169566016'>
@@ -829,7 +829,7 @@
     <Appearance>
      <Material diffuseColor='0.3355137 0.12222000000000004 0.4558527000000001' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='835.4474300807909 386.9667956563373 -225.8896783014061'>
@@ -837,7 +837,7 @@
     <Appearance>
      <Material diffuseColor='0.3362231844631248 0.12247844903228429 0.45681665589248227' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='830.1700254316144 401.2172742136052 -218.26706267338125'>
@@ -845,7 +845,7 @@
     <Appearance>
      <Material diffuseColor='0.3376422981765388 0.12299539983951945 0.4587447643955532' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='824.4071913563326 415.2331437817328 -210.5168198637012'>
@@ -853,7 +853,7 @@
     <Appearance>
      <Material diffuseColor='0.33977133054708913 0.12377095784602904 0.4616374187178737' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='818.1611560891771 429.00563251118086 -202.64319071946835'>
@@ -861,7 +861,7 @@
     <Appearance>
      <Material diffuseColor='0.34261071526223374 0.12480528103427732 0.4654952080979718' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='811.4340640539457 442.52587151908216 -194.65041503083256'>
@@ -869,7 +869,7 @@
     <Appearance>
      <Material diffuseColor='0.3461610297710572 0.1260985797558151 0.4703189170991135' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='804.2279809761005 455.7848793163265 -186.54273957126932'>
@@ -877,7 +877,7 @@
     <Appearance>
      <Material diffuseColor='0.3504229945727546 0.12765111647209063 0.4761095246425871' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='796.5448992279031 468.77354599773105 -178.32442632884747'>
@@ -885,7 +885,7 @@
     <Appearance>
      <Material diffuseColor='0.3553974722953485 0.1294632054188473 0.48286820275598236' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='788.386743442672 481.4826171308521 -169.99976096836156'>
@@ -893,7 +893,7 @@
     <Appearance>
      <Material diffuseColor='0.36108546654257456 0.1315352121860701 0.4905963150064879' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='779.7553764387217 493.90267727785454 -161.57306156660567'>
@@ -901,7 +901,7 @@
     <Appearance>
      <Material diffuseColor='0.3674881204815527 0.13386755320350668 0.49929541458200105' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='770.6526054984819 506.0241330833182 -153.04868766582248'>
@@ -909,7 +909,7 @@
     <Appearance>
      <Material diffuseColor='0.37481446434508164 0.13640336351961677 0.5053561490641396' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='761.0801890538814 517.8371958588823 -144.4310496935627'>
@@ -917,7 +917,7 @@
     <Appearance>
      <Material diffuseColor='0.3835479736453642 0.13901012773133545 0.5004013086096226' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='751.0398438353105 529.331863593299 -135.7246188008134'>
@@ -925,7 +925,7 @@
     <Appearance>
      <Material diffuseColor='0.39308273695525225 0.14185604898805415 0.4949918873394638' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='740.5332525485521 540.4979023136741 -126.9339371744169'>
@@ -933,7 +933,7 @@
     <Appearance>
      <Material diffuseColor='0.403420627614682 0.1449416864413503 0.4891268224391426' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='729.5620721520606 551.3248267204987 -118.06362888451602'>
@@ -941,7 +941,7 @@
     <Appearance>
      <Material diffuseColor='0.41456366074849044 0.1482676415625371 0.4828049706543587' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='718.1279428160157 561.8018800155194 -109.11841133307898'>
@@ -949,7 +949,7 @@
     <Appearance>
      <Material diffuseColor='0.426513988901642 0.15183455683987263 0.4760251107673286' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='706.2324976549252 571.9180128374495 -100.10310737564075'>
@@ -957,7 +957,7 @@
     <Appearance>
      <Material diffuseColor='0.43927389694261365 0.15564311425733024 0.4687859464882824' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='693.8773733372838 581.6618612161843 -91.02265819518962'>
@@ -965,7 +965,7 @@
     <Appearance>
      <Material diffuseColor='0.45284579612443243 0.15969403352194644 0.4610861098248547' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='681.0642216892152 591.021723451368 -81.8821370148587'>
@@ -973,7 +973,7 @@
     <Appearance>
      <Material diffuseColor='0.4672322171757567 0.1639880700016574 0.4529241650017684' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='667.7947224243998 599.9855358160228 -72.68676374477924'>
@@ -981,7 +981,7 @@
     <Appearance>
      <Material diffuseColor='0.4824358022745376 0.1685260123296102 0.44429861301447104' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='654.0705971501507 608.5408469804674 -63.44192066826436'>
@@ -989,7 +989,7 @@
     <Appearance>
      <Material diffuseColor='0.49845929573404524 0.17330867962414226 0.43520789691329403' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='639.893624819706 616.6747910459659 -54.15316928356536'>
@@ -997,7 +997,7 @@
     <Appearance>
      <Material diffuseColor='0.5153055332045959 0.17833691826572987 0.4256504079297093' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='625.2656588239851 624.3740590715628 -44.826268429923694'>
@@ -1005,7 +1005,7 @@
     <Appearance>
      <Material diffuseColor='0.5329774291637128 0.183611598163071 0.41562449257362033' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='610.1886459427516 631.6248689714378 -35.46719384071613'>
@@ -1013,7 +1013,7 @@
     <Appearance>
      <Material diffuseColor='0.5514779624318931 0.18913360842985374 0.40512846085079934' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='594.6646474059069 638.4129336540058 -26.08215928237155'>
@@ -1021,7 +1021,7 @@
     <Appearance>
      <Material diffuseColor='0.5708101594097552 0.1949038523814067 0.39416059577306883' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='578.6958623511248 644.7234272680895 -16.677639455623673'>
@@ -1029,7 +1029,7 @@
     <Appearance>
      <Material diffuseColor='0.5909770746841219 0.2009232417460326 0.38271916436118303' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='562.2846540051173 650.5409494160153 -7.260394855862133'>
@@ -1037,7 +1037,7 @@
     <Appearance>
      <Material diffuseColor='0.6119817685942244 0.20719268996900392 0.3708024303723435' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='545.4335789633182 655.849487188807 2.1625011879109017'>
@@ -1045,7 +1045,7 @@
     <Appearance>
      <Material diffuseColor='0.6338272812833405 0.21371310446753683 0.3584086690216575' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='528.1454199978513 660.6323748751854 11.583633050366863'>
@@ -1053,7 +1053,7 @@
     <Appearance>
      <Material diffuseColor='0.6565166026839646 0.22048537767201104 0.3455361840106535' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='510.4232228875784 664.8722511944044 20.99521064932984'>
@@ -1061,7 +1061,7 @@
     <Appearance>
      <Material diffuseColor='0.6800526377940446 0.22751037666167556 0.3321833272273459' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='492.27033783829944 668.5510139038682 30.3890342808869'>
@@ -1069,7 +1069,7 @@
     <Appearance>
      <Material diffuseColor='0.704438166495317 0.23478893117128824 0.31834852154276927' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='473.6904661475996 671.6497716369273 39.756456106998556'>
@@ -1077,7 +1077,7 @@
     <Appearance>
      <Material diffuseColor='0.7296757970395662 0.24232181970776673 0.3040302871999313' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='454.6877128695272 674.1487928356001 49.08833791141636'>
@@ -1085,7 +1085,7 @@
     <Appearance>
      <Material diffuseColor='0.7557679121808751 0.2501097534718273 0.2892272723749638' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='435.26664635165275 676.027451658896 58.375004693715624'>
@@ -1093,7 +1093,7 @@
     <Appearance>
      <Material diffuseColor='0.7827166067577238 0.25815335772758663 0.2739382885890904' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='415.4323656540626 677.2641707721372 67.60619361983444'>
@@ -1101,7 +1101,7 @@
     <Appearance>
      <Material diffuseColor='0.7985138500195763 0.27007287389764945 0.2590229238828047' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='395.19057701979995 677.8363609591099 76.77099779028306'>
@@ -1109,7 +1109,7 @@
     <Appearance>
      <Material diffuseColor='0.8116979225931273 0.28329565213195584 0.24386871937799096' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='374.54768075323807 677.720357550727 85.85780422374008'>
@@ -1117,7 +1117,7 @@
     <Appearance>
      <Material diffuseColor='0.8252776803568477 0.296915277204826 0.2282597013655982' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='353.510870081306 676.8913537360595 94.85422538392523'>
@@ -1125,7 +1125,7 @@
     <Appearance>
      <Material diffuseColor='0.8392531663027342 0.31093179223447226 0.2121958204292183' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='332.0882438278434 675.3233309203855 103.74702350136509'>
@@ -1133,7 +1133,7 @@
     <Appearance>
      <Material diffuseColor='0.8536240615349087 0.32534487738880524 0.1956774431182104' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='310.2889350295666 672.9889864284913 112.52202685935441'>
@@ -1141,7 +1141,7 @@
     <Appearance>
      <Material diffuseColor='0.8683896146931307 0.3401537791017488 0.17870543307062559' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='288.1232579701383 669.8596590304654 121.16403712593021'>
@@ -1149,7 +1149,7 @@
     <Appearance>
      <Material diffuseColor='0.8835485596984614 0.3553572275774233 0.16128124555903234' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='265.60287651421277 665.9052530053718 129.65672672276614'>
@@ -1157,7 +1157,7 @@
     <Appearance>
      <Material diffuseColor='0.8990990197908983 0.37095334054605394 0.14340703779280006' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='242.74099709431303 661.0941617732398 137.9825251305076'>
@@ -1165,7 +1165,7 @@
     <Appearance>
      <Material diffuseColor='0.9150383954589363 0.38693951086451717 0.1250857977355299' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='219.55259024868428 655.3931925407558 146.12249294289552'>
@@ -1173,7 +1173,7 @@
     <Appearance>
      <Material diffuseColor='0.931363233423127 0.40331227511526346 0.10632149469963861' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='196.0546452361997 648.7674939504973 154.05618240635943'>
@@ -1181,7 +1181,7 @@
     <Appearance>
      <Material diffuseColor='0.9480690733186932 0.4200671598388239 0.08711925557438016' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='172.26646297238918 641.1804894356488 161.76148312848179'>
@@ -1189,7 +1189,7 @@
     <Appearance>
      <Material diffuseColor='0.9651502681138504 0.43719850142491773 0.06748557124290405' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='148.2099933434829 632.5938199108658 169.2144516239035'>
@@ -1197,7 +1197,7 @@
     <Appearance>
      <Material diffuseColor='0.979724811291585 0.45536659145864095 0.052459148321232725' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='123.9102238626401 622.9673006377094 176.3891234131916'>
@@ -1205,7 +1205,7 @@
     <Appearance>
      <Material diffuseColor='0.981646825223194 0.4769158317864581 0.059788029849393735' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='99.39562762520406 612.2588986692191 183.25730653237056'>
@@ -1213,7 +1213,7 @@
     <Appearance>
      <Material diffuseColor='0.9836065042611659 0.49888736584255666 0.06726053317848965' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='74.69867957398418 600.4247393023729 189.78835559579164'>
@@ -1221,7 +1221,7 @@
     <Appearance>
      <Material diffuseColor='0.985602456553646 0.5212655884590297 0.07487135100185548' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='49.85645115385856 587.419152573243 195.94892604967933'>
@@ -1229,7 +1229,7 @@
     <Appearance>
      <Material diffuseColor='0.9876330016839137 0.544031659135731 0.08261407567859984' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='24.911294433405768 573.1947741687543 201.7027090513021'>
@@ -1237,7 +1237,7 @@
     <Appearance>
      <Material diffuseColor='0.9896961200871508 0.5671629349110745 0.09048100635336137' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-0.08837244017439308 557.7027193808209 207.01014863788447'>
@@ -1245,7 +1245,7 @@
     <Appearance>
      <Material diffuseColor='0.9917893937698395 0.5906323057196369 0.09846292291189543' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-25.08716623133326 540.8928540990427 211.82814468528719'>
@@ -1253,7 +1253,7 @@
     <Appearance>
      <Material diffuseColor='0.9939099369678508 0.6144074169443546 0.10654882157162132' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-50.02171425441124 522.7141935478735 216.10974783420536'>
@@ -1261,7 +1261,7 @@
     <Appearance>
      <Material diffuseColor='0.9960543152701999 0.6384497626480579 0.11472560649030253' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-74.8194945886439 503.1154677337205 219.80385639024914'>
@@ -1269,7 +1269,7 @@
     <Appearance>
      <Material diffuseColor='0.9982184516864825 0.6627136324201219 0.12297773158933137' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-99.39753459559022 482.0459025260524 222.85493057930427'>
@@ -1277,7 +1277,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.6865343832366864 0.13673567381396567' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-123.66096843583067 459.4562769497819 225.20274694741892'>
@@ -1285,7 +1285,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7077082943845351 0.17507542714486438' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-147.5014659642764 435.3003302976113 226.78222569748695'>
@@ -1293,7 +1293,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7289064721531896 0.2134591202207336' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-170.79556383784734 409.5366061968773 227.52337693656992'>
@@ -1301,7 +1301,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.750052560993765 0.25174849549957984' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-193.40295751580865 382.1308329441608 227.35142864324152'>
@@ -1309,7 +1309,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7710572133169534 0.28978177065829547' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-215.16485314244568 353.05894689693775 226.1872197666649'>
@@ -1317,7 +1317,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.7918163524279147 0.3273704932763617' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-235.9025341794976 322.3108628979679 223.94796553833467'>
@@ -1325,7 +1325,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8122094328286196 0.36429639075277787' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-255.41637126444442 289.8950740100641 220.54852658032218'>
@@ -1333,7 +1333,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8320978380721936 0.40030846928939' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-273.4855944445414 255.84411012521943 215.90333393394417'>
@@ -1341,7 +1341,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8513236291193405 0.43512074753085683' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-289.86924804126414 220.22078600604488 209.92913010650483'>
@@ -1349,7 +1349,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8697089453562706 0.46841117198350146' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-304.3088428695882 183.1250080863264 202.54866818039417'>
@@ -1357,7 +1357,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8850808111052157 0.5033875824217154' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-316.53327588152956 144.7006755480294 193.69544873671168'>
@@ -1365,7 +1365,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.8945792763918615 0.5444343027705975' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-326.2665526619905 105.14191149119647 183.3194478014621'>
@@ -1373,7 +1373,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9032038095962575 0.5817044081925967' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-333.23865859784206 64.69753438573676 171.39358431892566'>
@@ -1381,7 +1381,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9108156553075503 0.6145982802889185' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-337.19951946706146 23.67241727900259 157.92039900511256'>
@@ -1389,7 +1389,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9172774902421582 0.6425224894634671' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-337.9353534611002 -17.575678125772363 142.93811153769695'>
@@ -1397,7 +1397,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.922460416604503 0.6649200160705411' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-335.2859189571472 -58.6449045692985 126.52498188108342'>
@@ -1405,7 +1405,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9262519856219674 0.6813049233631072' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-329.16040897134656 -99.10411744984424 108.80085191386452'>
@@ -1413,7 +1413,7 @@
     <Appearance>
      <Material diffuseColor='1. 0.9285643821594164 0.6912977265311978' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
   <Transform translation='-319.5493411799266 -138.51282585549555 89.92500000000007'>
@@ -1421,9 +1421,10 @@
     <Appearance>
      <Material diffuseColor='1. 0.9293416 0.6946564000000001' />
     </Appearance>
-    <Sphere radius='7.' />
+    <Sphere radius='6.' />
    </Shape>
   </Transform>
+
   <!--   P2 -->
   <Shape>
    <Appearance>
