@@ -1,1 +1,75 @@
-stuff
+<html> 
+<head>  
+  
+<style type="text/css">
+#central-column { 
+  background-color: #fffff;
+  width: 900px;
+  margin: 0px auto;
+  height: 100%;
+  text-align: left;
+  padding-bottom: 150px;
+  }
+#content {
+  margin-top: 50px;    
+  margin-left: 30px;
+  width: 900px;
+  }
+body {
+  background: #ffffff url(images/background.png) no-repeat scroll center top;
+  color: #303030;
+  font-family: Helvetica,Tahoma,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 84%;
+  font-size-adjust: none;
+  font-stretch: normal;
+  line-height: 1.4em;
+}
+#footer{
+  padding-bottom: 10px;
+}
+</style>
+
+
+<!-- X3DOM inclusions -->
+<script type='text/javascript' src='x3dom.js'></script> 
+<link rel='stylesheet' type='text/css' href='x3dom.css'></link> 
+</head> 
+
+<body>
+
+<title>Title</title> 
+
+<div id="central-column">
+<div id="content">
+
+<h1>Title</h1>
+  
+<!-- <div id="introduction", style="text-align:center">
+  <div div style="display: inline-block; text-align: left">
+-->
+
+
+
+<center>
+<x3d width='900px' height='700px'>
+  <scene>
+   <Viewpoint position="1400 -2400 2000" orientation="0.9 0.2 0.4 1.0"></Viewpoint>  
+   <Inline url="test.x3d" />
+  </scene>
+</x3d>
+</center>
+  
+<div id="footer", style="margin-bottom: 15px;">
+
+&copy; Sarah Millholland, 2017.
+</div>
+  
+</div>
+</div>
+
+
+</body>
+</html>
