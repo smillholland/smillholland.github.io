@@ -1,13 +1,30 @@
-<X3D profile='Immersive' version='3.0'  xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' xsd:noNamespaceSchemaLocation =' http://www.web3d.org/specifications/x3d-3.0.xsd '>
-<Scene>
-<Viewpoint description='PointLight at center of spheres. Note that light rays pass through geometry.' position='0 0 30'/> 
-<!-- Note headlight turned off in NavigationInfo. Most browsers allow user toggling headlight also. --> 
-<!-- This NavigationInfo node is bound at runtime and overrides the NavigationInfo headlight setting within the Inlined scene. --> 
-<NavigationInfo headlight='false'/> 
-<Group>
-<PointLight radius='12'/> 
-<Inline bboxSize='16 16 16' 
-  url=' "Figure20.04HeadlightSpheres.x3d" "http://www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter20-Lighting/Figure20.04HeadlightSpheres.x3d" "Figure20.04HeadlightSpheres.wrl" "http://www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter20-Lighting/Figure20.04HeadlightSpheres.wrl" '/>
-</Group>
-</Scene>
-</X3D> 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D profile='Immersive' version='3.0' xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.0.xsd'>
+  <head>
+    <meta content='Figure20.06aPointLightSpheres.x3d' name='title'/>
+    <meta content='Figure 20.6a, The VRML 2.0 Sourcebook, Copyright [1997] By Andrea L. Ames, David R. Nadeau, and John L. Moreland' name='creator'/>
+    <meta content='http://www.wiley.com/legacy/compbooks/vrml2sbk/ch20/20fig06a.htm' name='reference'/>
+    <meta content='Don Brutzman' name='translator'/>
+    <meta content='7 September 2000' name='created'/>
+    <meta content='25 March 2012' name='modified'/>
+    <meta content='A sphere world illuminated by a point light in the center. Also see Figures 20.4, 20.6a, 20.6b, 20.7, 20.8 for comparison.' name='description'/>
+    <meta content='Figure20.04HeadlightSpheres.x3d' name='reference'/>
+    <meta content='Figure20.06bPointLightSpheresIntensity.x3d' name='reference'/>
+    <meta content='Figure20.07PointLightSpheresAttenuation.x3d' name='reference'/>
+    <meta content='Figure20.08PointLightSpheresSmallRadius.x3d' name='reference'/>
+    <meta content='http://www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter20-Lighting/Figure20.06aPointLightSpheres.x3d' name='identifier'/>
+    <meta content='X3D-Edit 3.3, https://savage.nps.edu/X3D-Edit' name='generator'/>
+    <meta content='../../license.html' name='license'/>
+  </head>
+  <Scene>
+    <Viewpoint description='PointLight at center of spheres. Note that light rays pass through geometry.' position='0 0 30'/>
+    <!-- Note headlight turned off in NavigationInfo. Most browsers allow user toggling headlight also. -->
+    <!-- This NavigationInfo node is bound at runtime and overrides the NavigationInfo headlight setting within the Inlined scene. -->
+    <NavigationInfo headlight='false'/>
+    <Group>
+      <PointLight radius='12'/>
+      <Inline bboxSize='16 16 16' url='"Figure20.04HeadlightSpheres.x3d" "http://www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter20-Lighting/Figure20.04HeadlightSpheres.x3d" "Figure20.04HeadlightSpheres.wrl" "http://www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter20-Lighting/Figure20.04HeadlightSpheres.wrl"'/>
+    </Group>
+  </Scene>
+</X3D>
