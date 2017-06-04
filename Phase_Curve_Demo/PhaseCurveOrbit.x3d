@@ -30,6 +30,7 @@
    <PointLight color='1 1 1' location='1.06226930565 0.122796255282 0.257885637376' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.291003425395 0.252534308145 -1.03031229713' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-1.01898356951 -0.141365572114 0.389471770583' intensity='1' ambientIntensity='1' radius='2.' /> 
+   <!--
    <PointLight color='1 1 1' location='0.360243154539 -0.081114919195 -1.03616853817' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.653828335483 0.350471334213 -0.812205855442' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.128094699297 0.668713900132 0.86395223698' intensity='1' ambientIntensity='1' radius='2.' /> 
@@ -95,7 +96,6 @@
    <PointLight color='1 1 1' location='-0.202309698413 -0.876947259204 -0.632482640475' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.943954977059 -0.291079173936 -0.483964787754' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='0.322044113211 0.402342185918 -0.971806747547' intensity='1' ambientIntensity='1' radius='2.' /> 
-   <!--
    <PointLight color='1 1 1' location='0.247393849636 0.946605562851 0.502726756342' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.808333146003 -0.742241200488 0.0753360827951' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.659770145198 -0.747255961802 0.46509341326' intensity='1' ambientIntensity='1' radius='2.' /> 
