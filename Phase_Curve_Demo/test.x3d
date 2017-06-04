@@ -8,16 +8,15 @@
       name='author' />
  </head>
  <Scene>
-  <PointLight color='0.9 0.05 0.05'
-      location='0. 0. 0.' intensity='1' />
+
   <Background skyColor='0. 0. 0.' />
 
-<Viewpoint description='Desk lamp' position='0 0 2'/> 
+<PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' />
 <Group>
 <Shape>
 <Sphere radius = '1' /> 
 <Appearance>
-<Material diffuseColor='1 1 1'/>
+<Material diffuseColor='1 0 0'/>
 </Appearance>
 </Shape>
 
