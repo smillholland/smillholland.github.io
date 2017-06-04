@@ -592,7 +592,7 @@
   <Shape>
 	<Sphere radius = '1.' /> 
 	<Appearance>
-	<Material diffuseColor='1., 0.985868, 0.938931' specularColor='1., 0.985868, 0.938931' shininess='0.01'/> 
+	<Material diffuseColor='1., 0.964671, 0.847328' specularColor='1., 0.964671, 0.847328' shininess='0.01'/> 
 <!--	<Material emmisiveColor='1. 1. 1.' />     -->
 	</Appearance>
   </Shape>
