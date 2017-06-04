@@ -11,14 +11,17 @@
 
   <Background skyColor='0. 0. 0.' />
 
+   
 <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' />
 <Group>
+<!--
 <Shape>
 <Sphere radius = '1' /> 
 <Appearance>
 <Material diffuseColor='1 0 0'/>
 </Appearance>
 </Shape>
+-->
 
          
 <!--
