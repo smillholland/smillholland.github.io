@@ -13,12 +13,12 @@
       radius='10000' />
   <Background skyColor='0. 0. 0.' />
 
-<Viewpoint description='Desk lamp' position='0 0 101'/> 
+<Viewpoint description='Desk lamp' position='0 0 2'/> 
 <Group>
 <Shape>
-<Sphere radius = '100' /> 
+<Sphere radius = '1' /> 
 <Appearance>
-<Material diffuseColor='1 0 0'/>
+<Material diffuseColor='1 1 1'/>
 </Appearance>
 </Shape>
 
