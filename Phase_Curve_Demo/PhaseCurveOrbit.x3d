@@ -41,54 +41,162 @@
   
   
 <!-- PLANET SPHERES -->
-  <Transform translation='6. 0. 0.'>
+  <Transform translation='5. 0. 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='5.54327719506772 2.2961005941905386 0.'>
+  <Transform translation='4.96354437049027 0.6026834012766153 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='4.242640687119286 4.242640687119285 0.'>
+  <Transform translation='4.85470908713026 1.1965783214377888 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='2.296100594190539 5.54327719506772 0.'>
+  <Transform translation='4.675081213427074 1.773024435212678 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='0. 6. 0.'>
+  <Transform translation='4.42728012826605 2.323615860218843 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='-2.2961005941905386 5.54327719506772 0.'>
+  <Transform translation='4.1149193294682815 2.840323733655779 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='-4.242640687119285 4.242640687119286 0.'>
+  <Transform translation='3.7425537408555054 3.315613291203976 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='-5.54327719506772 2.2961005941905395 0.'>
+  <Transform translation='3.3156132912039755 3.742553740855506 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='-6. 0. 0.'>
+  <Transform translation='2.840323733655779 4.114919329468282 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='-5.543277195067721 -2.296100594190538 0.'>
+  <Transform translation='2.323615860218843 4.42728012826605 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='-4.242640687119286 -4.242640687119285 0.'>
+  <Transform translation='1.7730244352126778 4.675081213427074 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='-2.296100594190542 -5.543277195067719 0.'>
+  <Transform translation='1.196578321437788 4.85470908713026 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='0. -6. 0.'>
+  <Transform translation='0.602683401276615 4.96354437049027 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='2.29610059419054 -5.54327719506772 0.'>
+  <Transform translation='0. 5. 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='4.242640687119284 -4.242640687119286 0.'>
+  <Transform translation='-0.6026834012766167 4.96354437049027 0.'>
 	<Shape USE='Ball'/>
   </Transform>
-  <Transform translation='5.543277195067719 -2.296100594190542 0.'>
+  <Transform translation='-1.1965783214377896 4.85470908713026 0.'>
 	<Shape USE='Ball'/>
-  </Transform> 
+  </Transform>
+  <Transform translation='-1.7730244352126783 4.675081213427074 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-2.3236158602188426 4.42728012826605 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-2.8403237336557785 4.114919329468282 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-3.3156132912039764 3.742553740855505 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-3.742553740855506 3.315613291203976 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.1149193294682815 2.840323733655779 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.42728012826605 2.3236158602188413 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.675081213427075 1.7730244352126774 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.85470908713026 1.1965783214377885 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.96354437049027 0.6026834012766153 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-5. 0. 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.96354437049027 -0.6026834012766163 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.854709087130259 -1.1965783214377914 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.675081213427074 -1.773024435212678 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.427280128266048 -2.3236158602188444 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-4.114919329468282 -2.840323733655778 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-3.742553740855505 -3.3156132912039764 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-3.315613291203974 -3.742553740855507 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-2.8403237336557794 -4.1149193294682815 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-2.3236158602188417 -4.42728012826605 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-1.7730244352126796 -4.675081213427074 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-1.1965783214377888 -4.85470908713026 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='-0.6026834012766135 -4.96354437049027 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='0. -5. 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='0.602683401276616 -4.96354437049027 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='1.1965783214377912 -4.854709087130259 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='1.7730244352126778 -4.675081213427074 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='2.323615860218844 -4.427280128266049 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='2.840323733655781 -4.11491932946828 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='3.315613291203976 -3.7425537408555054 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='3.742553740855507 -3.315613291203974 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='4.1149193294682815 -2.8403237336557794 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='4.42728012826605 -2.323615860218842 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='4.675081213427076 -1.7730244352126756 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='4.85470908713026 -1.196578321437789 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
+  <Transform translation='4.96354437049027 -0.6026834012766137 0.'>
+	<Shape USE='Ball'/>
+  </Transform>
 
   
 <!-- CIRCULAR ORBIT -->
