@@ -12,6 +12,18 @@
       location='0. 0. 0.'
       radius='10000' />
   <Background skyColor='0. 0. 0.' />
+
+<Viewpoint description='Desk lamp' position='0 0 1.1'/> 
+<Group>
+<Shape>
+<Sphere/> 
+<Appearance>
+<Material diffuseColor='1 0 0'/>
+</Appearance>
+</Shape>
+
+         
+<!--
   <Group>
    <Shape>
     <Appearance>
@@ -19,6 +31,7 @@
     </Appearance> 
     <Sphere radius='100' />
    </Shape> 
+   -->
   </Group>
  </Scene>
 </X3D>
