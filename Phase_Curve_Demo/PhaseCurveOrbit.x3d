@@ -30,7 +30,6 @@
    <PointLight color='1 1 1' location='1.06226930565 0.122796255282 0.257885637376' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.291003425395 0.252534308145 -1.03031229713' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-1.01898356951 -0.141365572114 0.389471770583' intensity='1' ambientIntensity='1' radius='2.' /> 
-   <!--
    <PointLight color='1 1 1' location='0.360243154539 -0.081114919195 -1.03616853817' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.653828335483 0.350471334213 -0.812205855442' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.128094699297 0.668713900132 0.86395223698' intensity='1' ambientIntensity='1' radius='2.' /> 
@@ -54,6 +53,7 @@
    <PointLight color='1 1 1' location='1.0992206567 0.0402128164616 0.00984262507383' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.13793263722 1.09130280069 -0.00572580067657' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.841959018597 -0.170192912523 0.687123994291' intensity='1' ambientIntensity='1' radius='2.' /> 
+  <!--
    <PointLight color='1 1 1' location='-1.0283958719 0.366998506919 -0.133094051641' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='1.03634269877 0.361195779138 -0.0743735156844' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.800083711285 0.66502686872 -0.357218866826' intensity='1' ambientIntensity='1' radius='2.' /> 
@@ -1017,7 +1017,7 @@
   <Shape>
 	<Sphere radius = '1.' /> 
 	<Appearance>
-	<Material diffuseColor='0.5 0 0' specularColor='1 1 1' shininess='0.01'/> 
+	<Material diffuseColor='1. 1. 1.' specularColor='1 1 1' shininess='0.01'/> 
 <!--	<Material emmisiveColor='1. 1. 1.' />     -->
 	</Appearance>
   </Shape>
