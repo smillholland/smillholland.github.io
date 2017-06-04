@@ -9,7 +9,7 @@
  </head>
  <Scene>
 
- <NavigationInfo headlight='false'/> 
+<!-- <NavigationInfo headlight='false'/> -->
  <Group>
 	
 <!-- BLACK BACKGROUND -->   
