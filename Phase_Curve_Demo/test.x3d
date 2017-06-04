@@ -17,7 +17,7 @@
 <directionalLight id="directional" direction='0 -1 0' on ="TRUE" intensity='2.0' shadowIntensity='0.0'>
 </directionalLight>
 <Shape>
-<Sphere radius = '1' /> 
+<Sphere radius = '0.5' /> 
 <Appearance>
 <Material diffuseColor='0.5 0 0' specularColor='1 1 1'/>
 </Appearance>
