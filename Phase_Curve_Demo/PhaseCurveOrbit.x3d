@@ -12,15 +12,14 @@
 <!-- BLACK BACKGROUND --> 
   <Background skyColor='0. 0. 0.' />
 
-   
-<PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' />
+<!-- LIGHT SOURCE -->
+  <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.8' radius='12' />
+  <!-- <PointLight ambientIntensity='0.8' radius='12'/> -->  
+  <!-- <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' /> -->  
 
 <!-- <NavigationInfo headlight='false'/> -->
  <Group>
 
-<!-- LIGHT SOURCE -->
-  <!--<PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.8' radius='12' />-->
-  <!-- <PointLight ambientIntensity='0.8' radius='12'/> -->
   
 <!-- STAR -->
   <Shape>
