@@ -15,7 +15,7 @@
   <Group>
    <Shape>
     <Appearance>
-    <Material ambientIntensity='0.0' diffuseColor='1.0 1.0 1.0' emissiveColor='1.0 1.0 1.0'/>
+    <Material ambientIntensity='1.0' diffuseColor='1.0 1.0 1.0' emissiveColor='1.0 1.0 1.0'/>
     </Appearance> 
     <Sphere radius='100' />
    </Shape> 
