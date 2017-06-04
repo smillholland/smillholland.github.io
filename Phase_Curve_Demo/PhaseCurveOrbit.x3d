@@ -11,8 +11,11 @@
 
 <!-- BLACK BACKGROUND --> 
   <Background skyColor='0. 0. 0.' />
+	 
+<NavigationInfo headlight='false'/>  
 
 <!-- LIGHT SOURCE -->
+  <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' radius='2' />
   <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.01' radius='12' />
   <!-- <PointLight ambientIntensity='0.8' radius='12'/> -->  
   <!-- <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' /> --> 
@@ -39,7 +42,7 @@
 	  <Sphere radius = '0.1' />
   </Shape>
   
-<NavigationInfo headlight='false'/>   
+ 
 <!-- PLANET SPHERES -->
   <Transform translation='5. 0. 0.'>
 	<Shape USE='Ball'/>
