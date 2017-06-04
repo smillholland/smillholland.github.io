@@ -16,9 +16,8 @@
   <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.01' radius='12' />
   <!-- <PointLight ambientIntensity='0.8' radius='12'/> -->  
   <!-- <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' /> --> 
- <directionalLight id="directional" direction='0 0 1' on ="TRUE" intensity='1.0' shadowIntensity='0.0' zFar='-2.' zNear='2'> </directionalLight> 
+<!--  <directionalLight id="directional" direction='0 0 1' on ="TRUE" intensity='1.0' shadowIntensity='0.0' zFar='-2.' zNear='2'> </directionalLight> -->
 
-<NavigationInfo headlight='false'/> 
  <Group>
 
   
@@ -40,7 +39,7 @@
 	  <Sphere radius = '0.1' />
   </Shape>
   
-  
+<NavigationInfo headlight='false'/>   
 <!-- PLANET SPHERES -->
   <Transform translation='5. 0. 0.'>
 	<Shape USE='Ball'/>
