@@ -14,7 +14,7 @@
    
 <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' />
 <Group>
-<directionalLight id="directional" direction='0 -1 0' on ="TRUE" intensity='2.0' shadowIntensity='0.0'>
+<!--<directionalLight id="directional" direction='0 -1 0' on ="TRUE" intensity='2.0' shadowIntensity='0.0'>-->
 </directionalLight>
 <Shape>
 <Sphere radius = '0.5' /> 
