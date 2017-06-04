@@ -13,7 +13,7 @@
   <Background skyColor='0. 0. 0.' />
 
 <!-- LIGHT SOURCE -->
-  <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.3' radius='12' />
+  <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.01' radius='12' />
   <!-- <PointLight ambientIntensity='0.8' radius='12'/> -->  
   <!-- <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' /> -->  
 
