@@ -13,14 +13,12 @@
       radius='10000' />
   <Background skyColor='0. 0. 0.' />
   <Group>
-  <Transform translation='47.79946800556885 68.78244078669509 -17.69370760532881'>
    <Shape>
     <Appearance>
      <Material diffuseColor='1. 1. 1.' />
     </Appearance>
-    <Sphere radius='3.5' />
-   </Shape>
-  </Transform>    
+    <Sphere radius='100' />
+   </Shape> 
   </Group>
  </Scene>
 </X3D>
