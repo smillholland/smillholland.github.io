@@ -15,7 +15,7 @@
 <NavigationInfo headlight='false'/>  
 
 <!-- LIGHT SOURCE -->
-  <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' radius='2' />
+  <PointLight color='1 1 1' location='1.1 0. 0.' intensity='1' ambientIntensity='1' radius='1' />
   <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.01' radius='12' />
   <!-- <PointLight ambientIntensity='0.8' radius='12'/> -->  
   <!-- <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' /> --> 
