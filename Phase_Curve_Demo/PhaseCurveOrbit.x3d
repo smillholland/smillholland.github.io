@@ -95,6 +95,7 @@
    <PointLight color='1 1 1' location='-0.202309698413 -0.876947259204 -0.632482640475' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.943954977059 -0.291079173936 -0.483964787754' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='0.322044113211 0.402342185918 -0.971806747547' intensity='1' ambientIntensity='1' radius='2.' /> 
+   <!--
    <PointLight color='1 1 1' location='0.247393849636 0.946605562851 0.502726756342' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.808333146003 -0.742241200488 0.0753360827951' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.659770145198 -0.747255961802 0.46509341326' intensity='1' ambientIntensity='1' radius='2.' /> 
@@ -1003,7 +1004,8 @@
    <PointLight color='1 1 1' location='-1.07533396695 -0.219634467048 0.0736040787221' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.634257504628 0.493535549297 -0.751092590432' intensity='1' ambientIntensity='1' radius='2.' /> 
    <PointLight color='1 1 1' location='-0.464716722761 0.94207247926 -0.326401304236' intensity='1' ambientIntensity='1' radius='2.' /> 
-
+-->
+	 
   <!-- <PointLight ambientIntensity='0.8' radius='12'/> -->  
   <!-- <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='1' /> --> 
 <!--  <directionalLight id="directional" direction='0 0 1' on ="TRUE" intensity='1.0' shadowIntensity='0.0' zFar='-2.' zNear='2'> </directionalLight> -->
