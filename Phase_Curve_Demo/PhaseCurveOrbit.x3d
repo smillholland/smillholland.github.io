@@ -16,7 +16,7 @@
 
 <!-- LIGHT SOURCE -->
   <PointLight color='1 1 1' location='1.1 0. 0.' intensity='1' ambientIntensity='1' radius='2.' />
-  <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.1' radius='12' />
+  <PointLight color='1 1 1' location='0. 0. 0.' intensity='1' ambientIntensity='0.05' radius='12' />
 	 
 	
    <PointLight color='1 1 1' location='-0.321147520328 -1.05194078886 -0.0168774088186' intensity='1' ambientIntensity='1' radius='2.' /> 
