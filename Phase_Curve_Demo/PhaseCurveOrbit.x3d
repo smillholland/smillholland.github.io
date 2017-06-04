@@ -30,16 +30,16 @@
   </Shape>
 
 
-<!-- PLANET SPHERE PROTOTYPE 
+<!-- PLANET SPHERE PROTOTYPE -->
   <Shape DEF='Ball'>
 	  <Appearance>
 		<Material diffuseColor='1 0.5 0.1'/>
 	  </Appearance>
 	  <Sphere radius = '0.1' />
   </Shape>
--->  
   
-<!-- PLANET SPHERES 
+  
+<!-- PLANET SPHERES -->
   <Transform translation='6. 0. 0.'>
 	<Shape USE='Ball'/>
   </Transform>
@@ -88,7 +88,7 @@
   <Transform translation='5.543277195067719 -2.296100594190542 0.'>
 	<Shape USE='Ball'/>
   </Transform> 
--->
+
   
 <!-- CIRCULAR ORBIT -->
   <Shape>
