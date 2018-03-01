@@ -1,1 +1,114 @@
+<html> 
+<head>  
+  
+<style type="text/css">
+#central-column { 
+  background-color: #fffff;
+  width: 900px;
+  margin: 0px auto;
+  height: 100%;
+  text-align: left;
+  padding-bottom: 150px;
+  }
+#content {
+  margin-top: 50px;    
+  margin-left: 30px;
+  width: 900px;
+  }
+body {
+  background: #ffffff url(images/background.png) no-repeat scroll center top;
+  color: #303030;
+  font-family: Helvetica,Tahoma,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 84%;
+  font-size-adjust: none;
+  font-stretch: normal;
+  line-height: 1.4em;
+}
+#footer{
+  padding-bottom: 10px;
+}
+</style>
 
+<!-- Google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88997009-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- X3DOM inclusions -->
+<script type='text/javascript' src='x3dom.js'></script> 
+<link rel='stylesheet' type='text/css' href='x3dom.css'></link> 
+</head> 
+
+<body>
+
+<title>Planet Nine's Orbit in Space</title> 
+
+<div id="central-column">
+<div id="content">
+
+<h1>Planet Nine's Orbit in Space</h1>
+  
+<!-- <div id="introduction", style="text-align:center">
+  <div div style="display: inline-block; text-align: left">
+-->
+<p>
+The manipulable 3D figure below is supplementary material to the paper <br>
+<a href="https://arxiv.org/abs/1612.07774">Millholland, S. & Laughlin, G. <i>Constraints on Planet Nine's Orbit and Sky Position within a Framework of Mean Motion Resonances</i>. 2017, AJ, 153, 91</a> <br>
+It uses X3DOM and should work on recent versions of Chrome, Firefox, Safari and Internet Explorer.
+You may also download a local copy from my <a href="https://github.com/smillholland/smillholland.github.io/tree/master/P9_Orbit">GitHub page</a>.
+To rotate the figure, use the left mouse button. To zoom in and out, scroll with the mouse hovering over the figure. 
+Refresh the page to return to the default view. 
+</p>
+
+<p>
+The 3D figure shows the orbits of the distant Kuiper Belt Objects (KBOs) and our proposed orbit of Planet Nine. The highly 
+eccentric orbits in white are the orbits of all known KBOs with semi-major axes greater than 250 AU and perihelion distances greater than 30 AU.
+White dots are placed at the objects’ current positions on their orbits. The colored orbit is our fiducial model of Planet Nine’s orbit with semi-major axis, <i>a</i> = 654 AU, eccentricity, <i>e</i> = 0.45, inclination, <i>i</i> = 30&deg;, argument of perihelion, <i>&omega;</i> = 150&deg;, longitude of ascending node, <i>&Omega;</i> = 50&deg;,
+and mean anomaly, <i>M</i> = 180&deg; (see note below). The points along the orbit are colored according to distance and are evenly spaced in time. The distances and RA/declination 
+coordinates of five locations along the orbit have been labeled with tick marks and an ellipse surrounding the Planet Nine orbit.
+</p>
+  
+<p>
+<b>Note:</b> As shown in Millholland & Laughlin (2017), a variety of Planet Nine orbits relative to this fiducial model are 
+  possible, and no orbit with round-numbered orbital elements is expected to be <i>the</i> perfect solution. When the fiducial model 
+is integrated for 4 billion years with cloned copies of the KBOs that are consistent with observed uncertainties, the majority of the 
+bodies maintain orbital stability and low inclinations relative to the ecliptic. Many of the bodies also maintain apsidal clustering. 
+In general, the results are better than the outcomes of similar Planet Nine orbits. However, we are not asserting that this 
+is the only solution consistent with the data.
+</p>
+
+  <!-- 0.9 0.2 0.4 1.0-->
+
+
+
+<center>
+<x3d width='900px' height='700px'>
+  <scene>
+   <Viewpoint position="1400 -2400 2000" orientation="0.9 0.2 0.4 1.0"></Viewpoint>  
+   <Inline url="p2Test.x3d" />
+  </scene>
+</x3d>
+</center>
+  
+<div id="footer", style="margin-bottom: 15px;">
+
+&copy; Sarah Millholland, 2016.
+</div>
+  
+</div>
+</div>
+
+
+</body>
+</html>
