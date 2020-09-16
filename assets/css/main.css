@@ -211,11 +211,11 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1rem;
+		font-size: 1.2rem;  /* 1rem SCM CHANGED HERE! */
 	}
 
 	h4 {
-		font-size: 0.8rem;
+		font-size: 1.2rem;  /* 0.8rem SCM CHANGED HERE! */
 	}
 
 	h5 {
