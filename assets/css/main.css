@@ -143,7 +143,7 @@ input, select, textarea {
 		color: #ffffff;
 		font-family: "Source Sans Pro", sans-serif;
 		font-weight: 300;
-		font-size: 1rem;
+		font-size: 1.1rem; /* 0.9rem SCM CHANGED HERE! */
 		line-height: 1.65;
 	}
 
@@ -1331,7 +1331,7 @@ input, select, textarea {
 			#header .content p {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
-				font-size: 0.8rem;
+				font-size: 1.0rem; /* 0.8rem SCM CHANGED HERE! */
 				line-height: 2;
 			}
 
@@ -1364,7 +1364,7 @@ input, select, textarea {
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
-					font-size: 0.8rem;
+					font-size: 0.9rem;  /* 0.8rem SCM CHANGED HERE! */
 					border-bottom: 0;
 				}
 
@@ -1546,7 +1546,7 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(169, 169, 169, 0.7); /* rgba(27, 31, 34, 0.85); */
+			background-color: rgba(169, 169, 169, 0.7); /* rgba(27, 31, 34, 0.85); SCM CHANGED HERE! */
 			border-radius: 4px;
 			opacity: 0;
 		}
